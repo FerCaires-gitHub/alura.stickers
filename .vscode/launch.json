@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "request": "launch",
+            "mainClass": "br.com.App",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "type": "java",
+            "args": "",
+            "name": "alura.stickers",
+            "env": {
+                "IMDB_API_KEY":"k_0ojt0yvm"
+            }
+        }
+    ]
+}
