@@ -1,6 +1,13 @@
 {
     "configurations": [
         {
+            "type": "java",
+            "name": "GeradorFigurinhaService",
+            "request": "launch",
+            "mainClass": "br.com.Services.GeradorFigurinhaService",
+            "projectName": "alura.stickers_75157a9f"
+        },
+        {
             "request": "launch",
             "mainClass": "br.com.App",
             "cwd": "${workspaceFolder}",
@@ -9,7 +16,7 @@
             "args": "",
             "name": "alura.stickers",
             "env": {
-                "IMDB_API_KEY":"k_0ojt0yvm"
+                "IMDB_API_KEY": "k_0ojt0yvm"
             }
         }
     ]
